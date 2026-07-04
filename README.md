@@ -113,10 +113,8 @@ Carronade represents the future of sustainable agriculture by combining innovati
 ---
 
 🔗 Project Links
-🌐 Website: [https://your-website-link.com](https://atharvaranjan1006.wixstudio.com/carronadefarmersfrnd)
-📹 Demo Video: https://youtube.com/your-demo-video
-📄 Presentation/Pitch Deck: 
-📂 GitHub Repository: https://github.com/your-username/carronade
-📱 Mobile App (if applicable): https://your-app-link.com
-📸 Prototype Images: https://drive.google.com/your-prototype-images
-📧 Contact Email: mailto@example.com
+-🌐 Website: https://atharvaranjan1006.wixstudio.com/carronadefarmersfrnd
+-📹 Demo Video: https://youtu.be/sxuaxshyZN0?si=lAwPzX4m4FZiPq2x
+-📄 Presentation/Pitch Deck: https://canva.link/4ymjsntcqoz3ovw
+-📂 GitHub Repository: https://github.com/your-username/carronade
+-📧 Contact Email: carronadecontactus@gmail.com
