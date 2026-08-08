@@ -12,7 +12,7 @@
 
 <br>
 
-[🌐 Website](https://athatharvaranjan1006.wixstudio.com/carronadefarmersfrnd) • [🎥 Demo Video](https://youtu.be/sxuaxshyZN0) • [📊 Pitch Deck](https://canva.link/4ymjsntcqoz3ovw)
+[🌐 Website](https://atharvaranjan1006.wixstudio.com/carronadefarmersfrnd) • [🎥 Demo Video](https://youtu.be/sxuaxshyZN0) • [📊 Pitch Deck](https://canva.link/4ymjsntcqoz3ovw)
 
 </div>
 
