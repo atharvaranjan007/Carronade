@@ -653,7 +653,7 @@ Supporting safer coexistence between agriculture and wildlife.
 * 🎥 **Demo Video:** [Watch the Demo](https://youtu.be/sxuaxshyZN0)
 * 🎥**Application Demo Video:** [Watch the Demo](https://youtu.be/4Nw6fDZYmqM?si=O3X1t1V_Fa8guKgY)
 * 📊 **Pitch Deck:** [View Presentation](https://canva.link/4ymjsntcqoz3ovw)
-* 💻 **GitHub Repository:** [Carronade on GitHub](https://github.com/your-username/carronade)
+* 💻 **GitHub Repository:** [Carronade on GitHub](https://github.com/atharvaranjan007/Carronade.git)
 * 📧 **Contact:** [carronadecontactus@gmail.com](mailto:carronadecontactus@gmail.com)
 
 ---
