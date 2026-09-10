@@ -652,8 +652,7 @@ Supporting safer coexistence between agriculture and wildlife.
 * 🌐 **Website:** [Carronade Farmers' Friend](https://atharvaranjan1006.wixstudio.com/carronadefarmersfrnd)
 * 🎥 **Demo Video:** [Watch the Demo](https://youtu.be/sxuaxshyZN0)
 * 🎥**Application Demo Video:** [Watch the Demo](https://youtu.be/4Nw6fDZYmqM?si=O3X1t1V_Fa8guKgY)
-* 🎥**Pitch Video:** [Watch the Pitch](CARRONADE – Smart AI-Based Crop Deterrent System | Protecting Farms with AI & Sound
-https://youtu.be/Ng2jOi_hFxw)
+* 🎥**Pitch Video:** [Watch the Pitch](https://youtu.be/Ng2jOi_hFxw)
 * 📊 **Pitch Deck:** [View Presentation](https://canva.link/4ymjsntcqoz3ovw)
 * 💻 **GitHub Repository:** [Carronade on GitHub](https://github.com/atharvaranjan007/Carronade.git)
 * 📧 **Contact:** [carronadecontactus@gmail.com](mailto:carronadecontactus@gmail.com)
